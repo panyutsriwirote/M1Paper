@@ -1,0 +1,10 @@
+.latex
+all_token
+data
+pitch
+analysis.ipynb
+process.py
+speaker_info.csv
+raw_tone.csv
+semitone.csv
+data.csv
